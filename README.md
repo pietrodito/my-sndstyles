@@ -1,1 +1,1 @@
-Ce sont mes configurations RStudio pour mes profils ARS
+Ce sont mes configurations RStudio pour mes profils SNDS
