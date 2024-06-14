@@ -1,0 +1,6 @@
+.libPaths(c("~/sasdata1/sasuser/local-R-lib/", .libPaths()))
+
+if(system.file(package = "sndsmart") != "") {
+  sndsmart::snds_prompt()
+}
+

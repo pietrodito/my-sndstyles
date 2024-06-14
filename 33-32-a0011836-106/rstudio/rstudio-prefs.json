@@ -1,0 +1,57 @@
+{
+    "load_workspace": false,
+    "initial_working_directory": "~",
+    "remove_history_duplicates": true,
+    "default_r_version": {
+        "version": "",
+        "r_home": "",
+        "label": "",
+        "module": ""
+    },
+    "num_spaces_for_tab": 1,
+    "editor_keybindings": "vim",
+    "syntax_color_console": true,
+    "real_time_spellchecking": false,
+    "posix_terminal_shell": "bash",
+    "panes": {
+        "quadrants": [
+            "Source",
+            "TabSet1",
+            "Console",
+            "TabSet2"
+        ],
+        "tabSet1": [
+            "Environment",
+            "History",
+            "Connections",
+            "VCS",
+            "Tutorial",
+            "Presentation"
+        ],
+        "tabSet2": [
+            "Files",
+            "Plots",
+            "Packages",
+            "Help",
+            "Build",
+            "Viewer",
+            "Presentations"
+        ],
+        "hiddenTabSet": [],
+        "console_left_on_top": false,
+        "console_right_on_top": true,
+        "additional_source_columns": 0
+    },
+    "save_files_before_build": true,
+    "default_project_location": "~/sasdata1/sasuser/analyses",
+    "global_theme": "alternate",
+    "editor_theme": "SQL Server",
+    "auto_save_on_blur": true,
+    "relative_line_numbers": true,
+    "highlight_r_function_calls": true,
+    "rainbow_parentheses": true,
+    "auto_append_newline": true,
+    "console_line_length_limit": 5000,
+    "show_hidden_files": true,
+    "jobs_tab_visibility": "shown"
+}
